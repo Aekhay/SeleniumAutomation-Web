@@ -1,0 +1,15 @@
+TestNG features
+
+1. Parameterization -> @Parameters (defined in testng.xml)
+
+2. priority -> @Test (priority = 1)
+
+3. Grouping -> Groups = "Sanity"
+
+4. Dependencies -> dependsOnMethods = {methodname}
+
+5. Dataprovider = Excel data -> dataProvider = {name}
+
+6. Soft & Hard Asserions 
+(Softassert.assertEqual) -> softassert.assetAll(); -> is imp to write 
+(Assert.assertEquals)
