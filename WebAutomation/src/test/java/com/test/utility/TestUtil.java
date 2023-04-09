@@ -2,7 +2,7 @@ package com.test.utility;
 
 import java.util.ArrayList;
 
-import com.test.excelutil.Xls_Reader;
+import com.excelutil.test.Xls_Reader;
 
 public class TestUtil {
 

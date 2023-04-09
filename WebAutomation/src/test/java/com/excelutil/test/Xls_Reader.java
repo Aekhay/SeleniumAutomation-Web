@@ -1,4 +1,4 @@
-package com.test.excelutil;
+package com.excelutil.test;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
